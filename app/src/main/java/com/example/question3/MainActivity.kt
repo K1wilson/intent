@@ -1,10 +1,12 @@
-package com.example.intent
+package com.example.question3
 
 import android.content.Intent
 import android.net.Uri
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.TextView
+import com.example.intent.R
+
 
 class MainActivity : AppCompatActivity() {
     lateinit var button1 : TextView
